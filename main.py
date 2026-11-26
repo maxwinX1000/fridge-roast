@@ -1,6 +1,6 @@
 import os
 
-LINE = "My smart fridge sends me a weekly report on my eating habits. I send it a weekly report on its humming. It never replies."
+LINE = "The ice maker sounds like a forklift dropping cutlery. The fridge calls it 'ambient.' I call it a cry for help."
 MAX_CHARS = 200
 
 if len(LINE) > MAX_CHARS:
